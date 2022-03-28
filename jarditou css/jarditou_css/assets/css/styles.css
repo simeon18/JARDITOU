@@ -1,0 +1,48 @@
+
+.logojarditou{
+    width: 15%;
+    height:auto;
+}
+
+.logopromotion{
+    width: 100%;
+    height:auto;
+}
+
+.row{
+    display:flex;
+
+}
+
+.col .col2{
+    flex:1;
+
+}
+
+.menu{
+    background-color:Black;
+    padding: 30px 30px 30px 30px;
+}
+
+
+a{
+    color:antiquewhite;
+}
+table{
+    border-collapse:collapse;
+}
+th,td{
+    border:1px solid black;
+    padding: 10px;
+}
+
+aside {
+    width: 40%;
+    padding-left: .5rem;
+    margin-left : .5rem;
+    float: left;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+}
+
